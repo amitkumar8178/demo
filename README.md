@@ -1,3 +1,3 @@
 # demo
 Just For Practice
-Author - AMIT KUMAR
+Author - AMIT KUMAR(IIT JAMMU)
